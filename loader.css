@@ -1,7 +1,7 @@
 .loader {
   width: 10%;
   height: 10px;
-  border-radius: 2px;
+  #border-radius: 2px;
   background-color: rgba(0, 0, 0, 0.2);
   position: absolute;
 }
@@ -12,9 +12,9 @@
   background-color: rgb(9, 188, 9);
   width: 0%;
   height: 100%;
-  border-radius: 2px;
+  #border-radius: 2px;
   animation: load 3.5s ease-in-out infinite;
-  box-shadow: rgb(9, 188, 9) 0px 2px 29px 0px;
+  #box-shadow: rgb(9, 188, 9) 0px 2px 29px 0px;
 }
 
 .angel {
